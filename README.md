@@ -4,4 +4,4 @@
 - 💞️ Enthusiast about AI/ML/DL
 - 📫 How to reach me abderrahmanedeffaf@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,c,figma,ps,ai,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,c,figma,ps,ai,pr,ae)](https://skillicons.dev)
